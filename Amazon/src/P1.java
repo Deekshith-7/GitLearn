@@ -6,5 +6,6 @@ public class P1
 		System.out.println("Learn Git");
 		System.out.println("Learn Stage");
 		System.out.println("Learn Git pull");
+		System.out.println("Git changes");
 	}
 }
